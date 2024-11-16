@@ -1,2 +1,3 @@
-我是左文颖
-这是我的github
+I am zuowenying  
+This is my github  
+welcome!  
